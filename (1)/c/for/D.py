@@ -1,3 +1,4 @@
+
 x, d = input().split()
 
 count = 0

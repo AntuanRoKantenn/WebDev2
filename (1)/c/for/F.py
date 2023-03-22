@@ -1,3 +1,4 @@
+
 a = int(input())
 n = 0
 while a > 0:

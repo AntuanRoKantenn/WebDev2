@@ -1,3 +1,4 @@
+
 x = input()
 s = int()
 
