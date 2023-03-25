@@ -6,3 +6,4 @@ for i in range(len(num_list)):
         res.append(num_list[i])
 
 print(' '.join(str(i) for i in res))
+
